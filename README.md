@@ -16,3 +16,6 @@ This repository contains the folowing files:
  
 
 4. Screenshot from 2015-03-26 19:39:53.png: This is the screenshot of a sample database file created using SQLite Manager. 
+
+
+5. This class is an implementation of the BackupAgentHelper which enables the app to restore data such user settings, preferences, high scores, etc. In the Label The Diagram App, this can be used to backup and store high scores, statistics, etc safely on a backend.
