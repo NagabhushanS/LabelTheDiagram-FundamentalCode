@@ -1,4 +1,4 @@
-/*
+/* @author: Nagabhushan S B
  * This class shows how to pull pre-loaded database(.sqlite) files in code. 
  * The pre-loaded database files containing the labels and hints are saved in the assets folder of the Project main folder.
  */
