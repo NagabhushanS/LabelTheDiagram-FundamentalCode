@@ -1,11 +1,11 @@
-/*
+/* @author: Nagabhushan S
  * This class file downloads an image from a given url in an AsyncTask(background). 
  * This can be used to download images of the diagrams in background from github. 
  * Each file in github has a raw link which can be used as an url to download images of the diagrams.
  * An example of a raw link is https://raw.githubusercontent.com/NagabhushanS/BundledImages/master/Screenshot%20from%202015-03-10%2016%3A46%3A58.png
  */
 
-package com.example.illustrativeproject;
+
 
 import java.io.InputStream;
 
